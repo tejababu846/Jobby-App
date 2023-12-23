@@ -1,4 +1,9 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+In this project, let's build a Jobby App
+
+To Login in to the page use : UserName: rahul
+                              passWord: rahul@2021
+
+
 
 ### Refer to videos below:
 
